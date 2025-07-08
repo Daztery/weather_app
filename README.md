@@ -77,11 +77,6 @@ open WeatherApp.xcodeproj
 
 ---
 
-## 📸 Screenshots
-*(You can add simulator images here)*
-
----
-
 ## 📌 Future Improvements
 
 - Save recent or favorite cities
@@ -89,11 +84,6 @@ open WeatherApp.xcodeproj
 - Offline support with local storage
 - Location-based weather (using CoreLocation)
 
----
-
-## 📄 License
-
-This project is free to use for educational purposes.
 
 ---
 
