@@ -84,8 +84,3 @@ open WeatherApp.xcodeproj
 - Offline support with local storage
 - Location-based weather (using CoreLocation)
 
-
----
-
-**Developed with ❤️ by Andrés López Hurtado**
-
